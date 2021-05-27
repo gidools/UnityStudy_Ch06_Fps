@@ -1,0 +1,8 @@
+.vsconfig
+UnityStudy_Ch06_Fps.sln
+Library/
+Temp/
+Logs/
+obj/
+Assembly-CSharp.csproj
+UnityStudy_Ch07_Fps.sln
